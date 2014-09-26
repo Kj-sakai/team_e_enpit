@@ -1,0 +1,2 @@
+module OmotoHelper
+end
